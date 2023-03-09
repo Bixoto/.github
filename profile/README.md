@@ -8,7 +8,7 @@ encourage contributions to FOSS projects.
 
 We are open to new technologies. We currently use Python, PHP, JS (Svelte and Vue), Ansible and Docker (with [Dokku][]).
 
-Want to work at Bixoto? [Contact us][jobs]!
+Want to work at Bixoto? [Contact us][jobs]! We speak English, Spanish, Catalan, French, and Italian.
 
 [Dokku]: https://dokku.com/
 [jobs]: https://bixoto.com/es/trabaja-con-nosotros/
