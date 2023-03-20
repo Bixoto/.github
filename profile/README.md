@@ -7,9 +7,10 @@ multiple independent closed-source implementations. For this reason we open-sour
 encourage contributions to FOSS projects.
 
 We are open to new technologies. We currently use Python, PHP, JS (Svelte and Vue), Ansible and Docker (with [Dokku][]).
-See also our [tech blog](https://tech-blog.bixoto.com/).
+See also our [tech blog][].
 
 Want to work at Bixoto? [Contact us][jobs]! We speak English, Spanish, Catalan, French, and Italian.
 
 [Dokku]: https://dokku.com/
 [jobs]: https://bixoto.com/es/trabaja-con-nosotros/
+[tech blog]: https://tech.bixoto.com
