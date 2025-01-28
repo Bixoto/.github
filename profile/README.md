@@ -6,7 +6,7 @@ improve the overall quality of software by having the community collaborate on c
 multiple independent closed-source implementations. For this reason we open-source most of our non-specific code and
 encourage contributions to FOSS projects.
 
-We are open to new technologies. We currently use Python, PHP, JS (Svelte and Vue), Ansible and Docker (with [Dokku][]).
+We are open to new technologies. We currently use Python, PHP, JS/TS (Svelte), Ansible and Docker (with [Dokku][]).
 See also our [tech blog][].
 
 Want to work at Bixoto? [Contact us][jobs]! We speak English, Spanish, Catalan, French, and Italian.
